@@ -8,7 +8,7 @@ input_values = [
         # Inputs
         ["1000", "12"],
         # Outputs
-        ["Escribe la cantidad de dinero inicial : ", "Escribe el porcentaje de interes anual : ", "1126.8250301319697"],
+        ["Escribe la cantidad de dinero inicial : ", "Escribe el porcentaje de interes anual : ", "1126.83"],
         # Message in case of failure
         "Revisa que estes haciendo bien tu calculo del resultado"
     ),
